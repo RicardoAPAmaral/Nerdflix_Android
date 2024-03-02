@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NerdFlix</string>
+    <string name="menu_messagem">Menu Menssagem</string>
+    <string name="menu_volume">Menu Volume</string>
+    <string name="menu_favorito">Menu Favorito</string>
+    <string name="menu_episodios">Menu Episódios</string>
+</resources>
